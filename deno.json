@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "types": [
+            "https://deno.land/x/denofa_types@v0.11.4/index.d.ts"
+        ]
+    }
+}
